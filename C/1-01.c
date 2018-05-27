@@ -4,6 +4,6 @@
 
 int main(int argc, char const *argv[])
 {
-    printf("Welcome to C!\n");
+    printf("\n\nWelcome to C!\n\n\n");
     return 0;
 }
